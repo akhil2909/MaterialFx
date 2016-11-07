@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="559.0" prefWidth="694.0" stylesheets="@main.css" xmlns="http://javafx.com/javafx/8.0.91" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.Main1Controller">
+   <children>
+      <JFXButton id="btn1" buttonType="RAISED" layoutX="53.0" layoutY="36.0" prefHeight="36.0" prefWidth="151.0" styleClass="menuBtn" stylesheets="@main.css" text="Button 1" textFill="#fafafa">
+         <font>
+            <Font name="Arial Bold" size="14.0" />
+         </font></JFXButton>
+      <JFXButton buttonType="RAISED" layoutX="53.0" layoutY="96.0" prefHeight="36.0" prefWidth="151.0" styleClass="menuBtn" />
+   </children>
+</AnchorPane>
